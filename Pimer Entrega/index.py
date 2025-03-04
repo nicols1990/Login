@@ -1,6 +1,6 @@
 def carga_de_datos():
     lista_de_datos_guardados=[]
-    print ("Ingrese nombre de usuario y contraseña")
+    print ("Ingrese nombre de usuario y contraseñaa")
     print ("El programa se cierra al poner en ""SALIR")
     nombre_usuario=input("Ingrese nombre usuario: ")
 
